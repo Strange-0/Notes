@@ -1,2 +1,2 @@
 # Notes
-Notes for Hacking.
+Notes and Cheataheet for Hacking.
